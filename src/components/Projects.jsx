@@ -12,6 +12,22 @@ const projects = [
         link: 'https://aalam-studio.vercel.app/',
         period: 'Oct 2025 – Dec 2025',
     },
+    {
+        title: 'Dharmar Mahal — Invoice Generator',
+        description:
+            'A custom invoice generator application built specifically for Dharmar Mahal to streamline their billing and invoice management process with a clean, intuitive interface.',
+        tags: ['React.js', 'Web App', 'CSS'],
+        link: 'https://dharmar-mahal-invoice.vercel.app/',
+        period: 'Aug 2025 – Nov 2025',
+    },
+    {
+        title: 'Kailash Ghee — Premium Brand Showcase',
+        description:
+            'A premium landing page for Kailash Ghee featuring an elegant and luxury editorial UI. Designed to provide a sophisticated web presence with refined typography and responsive layouts.',
+        tags: ['React.js', 'Vite', 'UI/UX', 'CSS'],
+        link: 'https://kailash-ghee.vercel.app/',
+        period: 'Jan 2026 – May 2026',
+    },
 ];
 
 const Projects = () => {
