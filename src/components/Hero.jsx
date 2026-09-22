@@ -1,6 +1,6 @@
 import { useEffect, useRef, useCallback } from 'react';
 import { gsap } from 'gsap';
-import profileImg from '../assets/hero.png';
+import profileImg from '../assets/hero.jpeg';
 import FloatingParticles from './FloatingParticles';
 import useMagnet from '../hooks/useMagnet';
 

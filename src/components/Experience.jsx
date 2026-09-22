@@ -17,7 +17,7 @@ const experiences = [
 
 const education = [
     {
-        period: 'Jun 2025 – Present',
+        period: 'FEB 2026 – Present',
         role: 'Master of Computer Applications',
         company: 'Bharathiar University',
         type: 'MCA · Full-time',
