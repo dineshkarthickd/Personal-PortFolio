@@ -48,7 +48,7 @@ const Contact = () => {
     };
 
     const socials = [
-        { label: 'LinkedIn', href: 'https://www.linkedin.com/in/dinesh-karthick-94a920295', icon: '💼' },
+        { label: 'LinkedIn', href: 'https://www.linkedin.com/in/dinesh-karthick-durgadas-94a920295', icon: '💼' },
         { label: 'GitHub', href: 'https://github.com/dineshkarthickd', icon: '🐙' },
         { label: 'Email', href: 'mailto:dineshkarthick1610@gmail.com', icon: '✉️', onClick: handleEmailClick },
     ];
